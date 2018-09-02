@@ -1,0 +1,100 @@
+apple-touch-icon-114x114-precomposed: null
+apple-touch-icon-120x120-precomposed: null
+apple-touch-icon-144x144-precomposed: null
+apple-touch-icon-152x152-precomposed: null
+apple-touch-icon-180x180-precomposed: null
+apple-touch-icon-72x72-precomposed: null
+apple-touch-icon-76x76-precomposed: null
+apple-touch-icon-precomposed: null
+author: claus
+baseurl: null
+bing_webmastertools_id: null
+collections:
+  category:
+    output: true
+compress_html:
+  clippings: all
+  comments:
+    - '<!-- '
+    - ' -->'
+  endings: all
+  ignore:
+    envs:
+      - development
+  profile: false
+credits: >-
+  <p>Created with &hearts; by <a href="https://www.asex.dk/">Claus</a> with <a
+  href="https://jekyllrb.com/" target="_blank">Jekyll</a> based on <a
+  href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      author: claus
+      comments: false
+      show_meta: false
+      sidebar: left
+  - scope:
+      path: ''
+      type: posts
+    values:
+      author: claus
+      comments: true
+      show_meta: true
+      sidebar: left
+  - scope:
+      path: ''
+      type: category
+    values:
+      layout: category
+description: null
+disqus_shortname: asexdk
+excerpt_separator: <!--more-->
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+favicon-32x32: null
+gist:
+  noscript: false
+google_analytics_tracking_id: UA-7127862-29
+google_author: null
+google_site_verification: null
+highlight: rouge
+highlighter: rouge
+improve_content: null
+include: []
+incremental: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+language: da
+logo: null
+lsi: false
+markdown: kramdown
+msapplication_tilecolor: null
+msapplication_tileimage: null
+og_image: null
+og_locale: da_DK
+og_type: website
+paginate: 5
+paginate_path: 'page:num'
+permalink: '/:title'
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-redirect-from
+safe: true
+sass:
+  sass_dir: _sass
+  style: ':compressed'
+slogan: …nok bare en fase
+socialmedia:
+  facebook: null
+  twitter: null
+tawkto_embed_uri: null
+title: asex.dk
+touch-icon-192x192: null
+url: 'https://www.asex.dk'
+urlimg: 'https://www.asex.dk/assets/img/'

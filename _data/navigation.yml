@@ -1,0 +1,29 @@
+- title: Forside
+  url: "/"
+  side: left
+
+- title: Emner
+  url: /emner
+  side: left
+  dropdown:
+  - title: FAQ
+    url: /emner/faq
+  - title: Holdninger
+    url: /emner/holdninger
+
+- title: Links
+  url: /links
+  side: left
+  dropdown:
+  - title: Communities
+    url: /links/communities
+  - title: Dating
+    url: /links/dating
+  - title: Videoer
+    url: /links/videoer
+  - title: Andet
+    url: /links/andet
+
+- title: Søg
+  url: /search
+  side: right

@@ -1,0 +1,17 @@
+- menu_name: Forskelligt
+
+- name: RSS
+  url: /feed.xml
+  title: Abonnér på RSS feed
+
+- name: Atom
+  url: /atom.xml
+  title: Abonnér på Atom feed
+
+- name: sitemap.xml
+  url: /sitemap.xml
+  title: Sitemap
+
+- name: Credits
+  url: /copyright
+  title: Credits
