@@ -58,7 +58,7 @@ exclude:
 favicon-32x32: null
 gist:
   noscript: false
-google_analytics_tracking_id: UA-7127862-29
+google_analytics_tracking_id: null
 google_author: null
 google_site_verification: null
 highlight: rouge
