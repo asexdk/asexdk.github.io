@@ -14,7 +14,7 @@ title: Aseksuel utroskab, findes det?
 ---
 Når jeg skriver en overskrift som denne menes den selvfølgelig retorisk - utroskab kan opstå i de fleste slags forhold uanset parternes orientering(er).
 
-Personligt har jeg hverken opdaget eller udsat nogen for den, men nu har der heller ikke været så mange chancer for det i mit liv. Grunden til jeg så overhovedet tager emnet op er at en god veninde har skrevet en bog om netop [utroskab](http://u-tro.dk/), og ifølge den er der en rimelig stor chance for at jeg som [romantisk](former-for-tiltraekning) person på et eller andet tidspunkt i mit liv kommer i nærkontakt med den.
+Personligt har jeg hverken opdaget eller udsat nogen for den, men nu har der heller ikke været så mange chancer for det i mit liv. Grunden til jeg så overhovedet tager emnet op er at en god veninde har skrevet en bog om netop [utroskab](https://u-tro.dk/), og ifølge den er der en rimelig stor chance for at jeg som [romantisk](former-for-tiltraekning) person på et eller andet tidspunkt i mit liv kommer i nærkontakt med den.
 
 For nylig kom jeg til at tale med en anden veninde som skal giftes for første gang. På en eller anden måde kom vi på emnet utroskab og hun fortalte mig, at hun absolut ikke ville have det at vide, hvis hendes partner kneppede udenom. Jeg spurgte om årsagen og fik at vide, at hun ellers ville nære så stort et had til den anden kvinde at hun nærmest kunne komme til at slå hende ihjel. Du hørte rigtigt, den anden kvinde, ikke hendes partner. Hendes reaktion kan jeg til dels forstå, men ikke hendes ønske om at lukke øjnene så længe som muligt. Ærlighed er sjældent den nemmeste løsning i det korte løb, men i det her tilfælde ville jeg foretrække den.
 

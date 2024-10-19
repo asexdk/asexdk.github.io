@@ -18,7 +18,7 @@ Heldigvis findes der engang imellem mere nuancerede udsagn end "Vidste du at der
 
 I det følgende prøver jeg at komme med nogle kommentarer til mainstream-mediernes fokus på aseksualitet:
 
-## [Det er ikke sygt at nej til sex](http://ekstrabladet.dk/sex_og_samliv/det-er-ikke-sygt-at-sige-nej-til-sex/4252769)
+## [Det er ikke sygt at nej til sex](https://ekstrabladet.dk/sex_og_samliv/det-er-ikke-sygt-at-sige-nej-til-sex/4252769)
 
 Ekstrabladet, 2010-04-21
 

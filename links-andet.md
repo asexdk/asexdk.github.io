@@ -9,14 +9,11 @@ Her finder du personlige blogs og andre sider, som ikke passede ind under nogen 
 
 ## Diverse engelske links om aseksualitet
 
-[asexy beast](https://theonepercentclub.blogspot.dk/)  
+[asexy beast](https://theonepercentclub.blogspot.com/)  
 Rigtig god blog.
-
-[Domain Of The Exception](http://galileoace.com/)  
-Blog af en australsk aseksuel mand.
 
 [Shades of Gray](https://prismaticentanglements.com/)  
 God blog.
 
 [Ace + Fandom](https://asexual-fandom.dreamwidth.org/)  
-Et blognetværk omkring aseksualitet i fiktive værker, ofte [fan fiction](http://en.wikipedia.org/wiki/Fan_fiction).
+Et blognetværk omkring aseksualitet i fiktive værker, ofte [fan fiction](https://en.wikipedia.org/wiki/Fan_fiction).

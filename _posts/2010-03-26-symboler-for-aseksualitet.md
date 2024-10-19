@@ -16,7 +16,7 @@ Nogle symboler og udtryk brugt blandt aseksuelle er:
 
 ![]({{ site.url }}/assets/img/53x1.png)
 
-**53x+m³=Ø** betyder "sex + me = no result", altså "sex og mig hænger ikke sammen". Stavemåden kommer fra [leetspeak](https://www.urbandictionary.com/define.php?term=leetspeak) og algebra.
+**53x+m³=Ø** betyder "sex + me = no result", altså "sex og mig hænger ikke sammen". Stavemåden kommer fra [leetspeak](https://www.urbandictionary.com/define.php?term=leet%20speak) og algebra.
 
 **Ace** er et slangudtryk for en aseksuel, som er afledt af begyndelseslyden i det engelske "asexual".
 
