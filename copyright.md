@@ -17,7 +17,7 @@ Nogle af billederne på denne side er licenseret af:
 * [chotda](https://www.flickr.com/photos/santos/)
 * [FunkiMag.nl](https://www.flickr.com/photos/funkimag/)
 * [hellochris](https://www.flickr.com/photos/hellochris/)
-* [jytyl](https://www.flickr.com/photos/fooey/)
+* jytyl
 * [KaitlynKalon](https://www.flickr.com/photos/kaitlynnicolephotography/)
 * [Keith Allison](https://www.flickr.com/photos/keithallison/)
 * [KRHamm](https://www.flickr.com/photos/krhamm/)
@@ -28,7 +28,7 @@ Nogle af billederne på denne side er licenseret af:
 * [Per Ola Wiberg ~ Powi](https://www.flickr.com/photos/powi/)
 * [puuikibeach](https://www.flickr.com/photos/puuikibeach/)
 * [richiesoft](https://www.flickr.com/photos/richiesoft/)
-* [StephenMcleod - time for nudes?](https://www.flickr.com/photos/greenboy/)
+* StephenMcleod - time for nudes?
 * [storem](https://www.flickr.com/photos/storem/)
 
 Nogle tekster på denne side er citeret fra:
