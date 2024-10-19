@@ -14,7 +14,7 @@ teaser: Denne side er primært for dig, som har en generel interesse i hvad asek
 title: Hvad er aseksualitet?
 ---
 Hej og velkommen til asex.dk :) Denne side er primært for dig, som har en generel interesse i hvad aseksualitet betyder.
-Aseksualitet (somme tider kaldt nonseksualitet) er en seksuel orientering som er kendetegnet ved ingen [seksuel tiltrækning]({{ site.url }}/hvad-er-seksuel-tiltr%c3%a6kning) til andre. Dette forårsager at personen ikke føler begær for andre og er uinteresseret i sex med partnere. En kendt studie går ud fra, at omkring 1% af befolkningen er aseksuel. Som andre seksuelle orienteringer og til forskel fra [afholdenhed og cølibat]({{ site.url }}/c%c3%b8libat-afholdenhed-og-aseksualitet) er aseksualitet typisk medfødt og vedblivende.
+Aseksualitet (somme tider kaldt nonseksualitet) er en seksuel orientering som er kendetegnet ved ingen [seksuel tiltrækning]({{ site.url }}/hvad-er-seksuel-tiltr%c3%a6kning) til andre. Dette forårsager at personen ikke føler begær for andre og er uinteresseret i sex med partnere. En kendt studie går ud fra, at omkring 1% af befolkningen er aseksuel. Som andre seksuelle orienteringer og til forskel fra [afholdenhed og cølibat]({{ site.url }}/coelibat-afholdenhed-og-aseksualitet) er aseksualitet typisk medfødt og vedblivende.
 
 <a name="udbredelse" id="udbredelse"></a>
 ## Udbredelse
@@ -38,7 +38,7 @@ Selvom aseksuelle oftest ikke føler begær efter noget køn kan de føle et beh
 * **transromantisk:** romantisk tiltrækning til personer af variabel eller tvetydig køn
 * **polyromantisk:** romantisk tiltrækning til personer af mere end et køn uden at ville sige at der kun er to køn
 
-Læs mere om [andre former for tiltrækning]({{ site.url }}/former-for-tiltrækning).
+Læs mere om [andre former for tiltrækning]({{ site.url }}/former-for-tiltraekning).
 
 ## Forskning
 

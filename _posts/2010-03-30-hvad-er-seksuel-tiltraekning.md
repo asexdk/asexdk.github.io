@@ -16,7 +16,7 @@ tags:
 teaser: Seksuel tiltrækning (på engelsk sexual attraction) betyder at føle sig tiltrukket af (visse) mennesker pga. et seksuelt begær til dem. Det er bare en af flere forskellige former for tiltrækning, og mange oplever at føle sig tiltrukket af de samme eller forskellige personer på mere end én måde.
 title: Hvad er seksuel tiltrækning?
 ---
-**Seksuel tiltrækning** (på engelsk *sexual attraction*) betyder at føle sig tiltrukket af (visse) mennesker pga. et seksuelt begær til dem. Det er bare en af flere [forskellige former for tiltrækning]({{ site.url }}/former-for-tiltrækning), og mange oplever at føle sig tiltrukket af de samme eller forskellige personer på mere end én måde. Hvilke eller hvilket køn man kan føle sig seksuelt tiltrukket af afhænger af ens seksuelle orientering.
+**Seksuel tiltrækning** (på engelsk *sexual attraction*) betyder at føle sig tiltrukket af (visse) mennesker pga. et seksuelt begær til dem. Det er bare en af flere [forskellige former for tiltrækning]({{ site.url }}/former-for-tiltraekning), og mange oplever at føle sig tiltrukket af de samme eller forskellige personer på mere end én måde. Hvilke eller hvilket køn man kan føle sig seksuelt tiltrukket af afhænger af ens seksuelle orientering.
 
 Seksuel tiltrækning er med andre ord ikke det samme som **seksualdriften** (på engelsk *sex drive*, i daglig tale *sexlysten* eller også *libido*), som er trangen til seksuel tilfredsstillelse. Seksualdriften er ikke rettet mod nogen bestemt.
 

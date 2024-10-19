@@ -13,18 +13,18 @@ title: Hvad er aseksualitet ikke?
 ---
 Definitionen af aseksuel finder du på [siden om aseksualitet]({{ site.url }}/hvad-er-aseksualitet). Her er nogle ting aseksualitet **ikke** er:
 
-**En som lever i cølibat** eller afholdenhed føler sig [seksuelt tiltrukket]({{ site.url }}/hvad-er-seksuel-tiltrækning) af andre, men vælger ikke at agere på dette begær. Valget kan være truffet ud fra religiøse, sociale eller andre årsager. Afholdenhed kan også være ufrivillig, f. eks. ved fysiske sygdomme der gør samleje umuligt. Omvendt oplever en aseksuel ikke [seksuel tiltrækning]({{ site.url }}/hvad-er-seksuel-tiltrækning), men har ikke bevidst fravalgt sex. Sammenlign f. eks. "ikke at kunne lide kage" med "ikke at spise kage pga. diabetes".\\
-Læs mere om [cølibat og afholdenhed]({{ site.url }}/cølibat-afholdenhed-og-aseksualitet).
+**En som lever i cølibat** eller afholdenhed føler sig [seksuelt tiltrukket]({{ site.url }}/hvad-er-seksuel-tiltraekning) af andre, men vælger ikke at agere på dette begær. Valget kan være truffet ud fra religiøse, sociale eller andre årsager. Afholdenhed kan også være ufrivillig, f. eks. ved fysiske sygdomme der gør samleje umuligt. Omvendt oplever en aseksuel ikke [seksuel tiltrækning]({{ site.url }}/hvad-er-seksuel-tiltraekning), men har ikke bevidst fravalgt sex. Sammenlign f. eks. "ikke at kunne lide kage" med "ikke at spise kage pga. diabetes".\\
+Læs mere om [cølibat og afholdenhed]({{ site.url }}/coelibat-afholdenhed-og-aseksualitet).
 
 **En der aldrig har sex.** Nogle aseksuelle vælger at have sex af forskellige årsager, f. eks. for at accepteres af samfundet, af nysgerrighed eller for gøre en seksuel partner glad.
 
 **En som er imod sex**; denne holdning kaldes for anti-seksuel. Mit indtryk fra [AVEN](https://www.asexuality.org/) er, at en del aseksuelle væmmes af at forestille sig seksuelle handlinger. Men der er også mange, som bare er helt ligeglade med det.
 
-**En som ikke føler sig tiltrukket af nogen.** Den [seksuelle tiltrækning]({{ site.url }}/hvad-er-seksuel-tiltrækning) er kun én af forskellige [former for tiltrækning]({{ site.url }}/former-for-tiltrækning).
+**En som ikke føler sig tiltrukket af nogen.** Den [seksuelle tiltrækning]({{ site.url }}/hvad-er-seksuel-tiltraekning) er kun én af forskellige [former for tiltrækning]({{ site.url }}/former-for-tiltraekning).
 
-**Misbrugt, voldtaget** eller udsat for andre seksuelle traumer. Det er kun tilfældet for få aseksuelle og de fleste af ofrene for seksuel misbrug oplever alligevel [seksuel tiltrækning]({{ site.url }}/hvad-er-seksuel-tiltrækning) efter nogen tid.
+**Misbrugt, voldtaget** eller udsat for andre seksuelle traumer. Det er kun tilfældet for få aseksuelle og de fleste af ofrene for seksuel misbrug oplever alligevel [seksuel tiltrækning]({{ site.url }}/hvad-er-seksuel-tiltraekning) efter nogen tid.
 
-**Frigide** (lidende af "hypoactive sexual desire disorder" eller HSDD). Dette er en tilstand af manglende eller nedsat trang til sex (sex drive), ikke (kun) af [seksuel tiltrækning]({{ site.url }}/hvad-er-seksuel-tiltrækning). For at definitionen frigiditet skal kunne finde anvendelse kræves det yderligere at personen er utilfreds med denne tilstand.
+**Frigide** (lidende af "hypoactive sexual desire disorder" eller HSDD). Dette er en tilstand af manglende eller nedsat trang til sex (sex drive), ikke (kun) af [seksuel tiltrækning]({{ site.url }}/hvad-er-seksuel-tiltraekning). For at definitionen frigiditet skal kunne finde anvendelse kræves det yderligere at personen er utilfreds med denne tilstand.
 
 **Impotent** (lidende af erektil dysfunktion). Aseksuelle er fysisk i stand til at have sex.
 
